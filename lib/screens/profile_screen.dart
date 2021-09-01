@@ -75,7 +75,7 @@ class TextTitle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Text(
-      "Profile",
+      "Profil",
       style: TextStyle(
         color: Colors.black,
         fontSize: 20,
